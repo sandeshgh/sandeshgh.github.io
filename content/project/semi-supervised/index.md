@@ -2,6 +2,8 @@
 title: Regularization and Semi supervised Learning
 summary: Apply smoothness based regularization to help semi supervised learning.
 tags:
+- Learning
+- Probabilistic
 
 date: "2016-04-27T00:00:00Z"
 

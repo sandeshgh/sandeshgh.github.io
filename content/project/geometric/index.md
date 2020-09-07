@@ -2,6 +2,7 @@
 title: Geometric Deep Learning
 summary: Apply geometric information while solving inverse problem.
 tags:
+- Geometric
 
 date: "2016-04-27T00:00:00Z"
 

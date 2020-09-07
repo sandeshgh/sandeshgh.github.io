@@ -2,6 +2,7 @@
 title: Data Augmentation and Transfer Learning
 summary: How to extract transformation from a dataset and use it for data augmentation?
 tags:
+- Learning
 
 
 date: "2016-04-27T00:00:00Z"

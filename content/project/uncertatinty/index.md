@@ -2,6 +2,7 @@
 title: Uncertainty in Deep Learning
 summary: How to quantify and interpret uncertainty in deep learning?
 tags:
+- Probabilistic
 
 date: "2016-04-27T00:00:00Z"
 
