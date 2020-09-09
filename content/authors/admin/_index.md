@@ -85,5 +85,5 @@ Starting September, I will work with [Prof. Jennifer Dy](https://scholar.google.
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
 **Research**  
-I am generally interested in computational and algorithmic aspects of learning. In my PhD thesis, I focused on learning and generalization in the context of inverse problems. My works are also firmly grounded in medical imaging applications.
-I like to ask deep questions and work towards fundamental understanding, often  with theoretical analysis. But, I believe that theory and application must go hand in hand.  Starting with real life applications help us define problems precisely, which, in turn, will help us in theoretical pursuit and fundamental understanding. 
+I am generally interested in computational and algorithmic aspects of learning. In my PhD thesis, I focused on learning and generalization in the context of inverse problems. I like to ask deep questions and work towards fundamental understanding, often  with the help of theoretical (mathematical) analysis. My works are also firmly grounded in medical imaging applications.
+ I believe that theory and application must go hand in hand.  Starting with real life applications help us define precise problems, which, in turn, will help us in theoretical pursuit and fundamental understanding. 
