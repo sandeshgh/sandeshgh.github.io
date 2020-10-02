@@ -79,11 +79,12 @@ user_groups:
 - Visitors
 ---
 
-I completed my PhD in Computing and Information Sciences from Rochester Institute of Technology, and recently defended my PhD thesis. My advisor is [Prof. Linwei Wang](https://pht180.rit.edu/cblwang/).
+I am a postdoctoral researcher at Northeastern University working with [Prof. Jennifer Dy](https://scholar.google.com/citations?hl=en&user=6h7b0fAAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Octavia Camps](https://scholar.google.com/citations?user=htt9T1AAAAAJ&hl=en) and [Prof. Dana H Brooks](https://scholar.google.com/citations?user=MR6GYYsAAAAJ&hl=en).
 
-Starting September, I will work with [Prof. Jennifer Dy](https://scholar.google.com/citations?hl=en&user=6h7b0fAAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Octavia Camps](https://scholar.google.com/citations?user=htt9T1AAAAAJ&hl=en) and [Prof. Dana H Brooks](https://scholar.google.com/citations?user=MR6GYYsAAAAJ&hl=en) as a postdoctoral researcher at Northeastern University.
+I completed my PhD in Computing and Information Sciences from Rochester Institute of Technology under advisement of [Prof. Linwei Wang](https://pht180.rit.edu/cblwang/).
+
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
 **Research**  
-I am generally interested in computational and algorithmic aspects of learning. In my PhD thesis, I focused on learning and generalization in the context of inverse problems. I like to ask deep questions and work towards fundamental understanding, often  with the help of theoretical (mathematical) analysis. My works are also firmly grounded in medical imaging applications.
+I am generally interested in computational and algorithmic aspects of learning. In my PhD thesis, I focused on learning and generalization in the context of inverse problems. I like to ask deep questions and work towards fundamental understanding, often  with the help of theoretical/mathematical analysis. My works are also firmly grounded in medical imaging applications.
  I believe that theory and application must go hand in hand.  Starting with real life applications help us define precise problems, which, in turn, will help us in theoretical pursuit and fundamental understanding. 
