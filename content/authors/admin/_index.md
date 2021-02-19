@@ -7,8 +7,11 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "CV/Sandesh_CV.pdf"
-  label : "Download Resume"
+- url : "CV/CV_Sandesh.pdf"
+  label : "Resume"
+
+- url : "CV/Thesis_Sandesh.pdf"
+  label : "PhD Thesis"
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,6 +33,7 @@ display_education: true
 interests:
 - Machine Learning 
 - Probabilistic Methods 
+- Computer Vision
 - Statistical Inference
 - Medical Imaging
 
@@ -86,5 +90,7 @@ I completed my PhD in Computing and Information Sciences from Rochester Institut
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
 **Research**  
-I am generally interested in computational and algorithmic aspects of learning. In my PhD thesis, I focused on learning and generalization in the context of inverse problems. I like to ask deep questions and work towards fundamental understanding, often  with the help of theoretical/mathematical analysis. My works are also firmly grounded in medical imaging applications.
- I believe that theory and application must go hand in hand.  Starting with real life applications help us define precise problems, which, in turn, will help us in theoretical pursuit and fundamental understanding. 
+I am generally interested in computational and algorithmic aspects of learning. I like to ask deep questions and work towards fundamental understanding, often  with the help of mathematical analysis, while solving real world problems with practical applications. I strongly believe that both deep theoretical investigation and practical applications are equally important and I wish to pursue my research at this intersection.
+I have experience of working on biomedical problems and medical image analysis as practical real world problems. These problems helped me understand what assumptions are reasonable and which questions are more important and require our immediate attention.
+
+In my PhD thesis, I focused on learning and generalization in the context of reconstructing cardiac electrophysiological signals. Currently, as a Post-doc, I am pursuing research in three directions: 1) Core machine learning research, 2) Image processing and video analysis and 3) Medical image analysis and understanding.
