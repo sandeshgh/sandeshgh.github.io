@@ -83,7 +83,7 @@ To introduce basic statistical learning theory, it is important to have a good i
 # Concentration Inequalities
 ## Markov Inequality
 
-<img src="./Markov.jpg" alt="x is greater than a"
+<img src="/img/Markov.jpg" alt="x is greater than a"
   width="600" />
 
 Let's define a function
