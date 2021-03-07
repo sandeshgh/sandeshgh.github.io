@@ -1,6 +1,6 @@
 ---
-title: Probabilistic Graphical Model, Generative Model and Inference
-summary: Apply probabilistic modeling and inference to solve inverse problem.
+title:  Probabilistic / Deep Generative Models and Inference
+summary: Apply probabilistic modeling, deep generative modeling and inference to solve inverse problem.
 tags:
 - Learning
 - Probabilistic

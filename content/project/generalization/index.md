@@ -1,6 +1,6 @@
 ---
-title: Generalization and Learning Theory
-summary: How to understand and improve generalization in deep networks?
+title: Generalization, Robustness and Uncertainty
+summary: How to understand and improve generalization and robustness in deep networks?
 tags:
 - Learning
 
@@ -13,12 +13,16 @@ external_link:
 image:
   focal_point: Smart
 ---
- 
-We have worked to understand and improve generalization of deep neural networks, especially in the context of medical imaging applications. We have proposed ideas from two perspectives:
+
+I believe that generalization, robustness and uncertainty are deeply related. I am particularly interested in understanding this relationship from the function space perspective. For example, what is the role of smoothness in each of these? How can we improve robustness and generalization of deep neural networks? How does that affect uncertainty estimation?
+
+My previous works have tried to understand and improve generalization of deep neural networks in the context of medical imaging applications. We have proposed ideas from two perspectives:
 
 1) Generalization by addressing mismatch between training and test distribution
 
 2) Generalization by controlling complexity based on learning theory
+
+Currently, I am exploring the connections in more details, especially using tools from functional analysis and kernel methods.
 
 ## References
 

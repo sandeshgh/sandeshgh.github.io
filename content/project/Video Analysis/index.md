@@ -1,5 +1,5 @@
 ---
-title: Analysis of Video Dynamics
+title: Probabilistic Modeling and Analysis of Video Dynamics
 summary: Can we isolate inherent dynamical system of a video?
 tags:
 - Probabilistic
