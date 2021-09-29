@@ -1,5 +1,5 @@
 ---
-title: Generalization, Robustness and Uncertainty
+title: Generalization, Interpretability and Reliable Learning
 summary: How to understand and improve generalization and robustness in deep networks?
 tags:
 - Learning

@@ -1,5 +1,5 @@
 ---
-title: Regularization and Semi supervised Learning
+title: Regularization, Semi supervised Learning and Data augmentation
 summary: Apply smoothness based regularization to help semi supervised learning.
 tags:
 - Learning
@@ -32,9 +32,12 @@ url_video: ""
 <!-- slides: example -->
 ---
 
-In the presence of small amount of data-labels, how to utilize the unlabeled data in the context of deep learning? This is the question that semi-supervised learning asks. To answer this question, we leverage the idea of the smoothness of classifier with respect to input or with respect to latent representation to regularize the training. Employing ideas from analytical learning theory and function continuity, we show that enforcing the notion of smoothness during training by utlizing unlabeled data improves accuracy.
+How to address the data hunger of deep learning? 1) how to utilize the unlabeled data in the context of deep learning? 2) how to augment data.
+In semi supervised learning, we leverage the idea of the smoothness of classifier with respect to input or with respect to latent representation to regularize the training. Employing ideas from analytical learning theory and function continuity, we show that enforcing the notion of smoothness during training by utlizing unlabeled data improves accuracy.
 
-I am working with Prashnna Kumar Gyawali under superviion of Prof. Linwei Wang in this direction.
+In data augmentation, we try to learn transformations from data itself to apply on other data.
+
+I am working with Prashnna Kumar Gyawali in semi supervised learning and with Nilesh Kumar in data augmentation under superviion of Prof. Linwei Wang.
 
 ## References
 
