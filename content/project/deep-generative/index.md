@@ -1,5 +1,5 @@
 ---
-title:  Probabilistic / Deep Generative Models and Inference
+title:  Probabilistic Models and Inference
 summary: Apply probabilistic modeling, deep generative modeling and inference to solve inverse problem.
 tags:
 - Learning

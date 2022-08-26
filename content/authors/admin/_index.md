@@ -90,7 +90,5 @@ I completed my PhD in Computing and Information Sciences from Rochester Institut
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
 **Research**  
-I am generally interested in computational and algorithmic aspects of learning. I like to ask deep questions and work towards fundamental understanding, often  with the help of mathematical analysis, while solving real world problems with practical applications. I strongly believe that both deep theoretical investigation and practical applications are equally important and I wish to pursue my research at this intersection.
-I have experience of working on biomedical problems and medical image analysis as practical real world problems. These problems helped me understand what assumptions are reasonable and which questions are more important and require our immediate attention.
-
-In my PhD thesis, I focused on learning and generalization in the context of reconstructing cardiac electrophysiological signals. Currently, as a Post-doc, I am pursuing research in three directions: 1) Core machine learning research, 2) Image processing and video analysis and 3) Medical image analysis and understanding.
+I am generally interested in computational and algorithmic aspects of learning. I have worked on 1) probabilistic models and Bayesian inference, 2) generative modeling and semi/self/un-supervised learning, and 3) generalization and robust/reliable estimation.
+I have applied these ideas in the context of computer vision/ video analysis problems, medical imaging and biomedical signals. My current research projects include score based generative models, energy based models, representation learning in videos, Kernel methods etc. In my PhD thesis, I focused on learning and generalization in the context of reconstructing cardiac electrophysiological signals. 

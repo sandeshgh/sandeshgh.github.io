@@ -1,6 +1,6 @@
 ---
-title: Probabilistic Modeling and Analysis of Video Dynamics
-summary: Can we isolate inherent dynamical system of a video?
+title: Deep Generative Models and Representation Learning
+summary: Can we learn meaningful representation from real world videos or biomedical signals ?
 tags:
 - Probabilistic
 
