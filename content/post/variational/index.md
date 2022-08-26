@@ -115,9 +115,13 @@ It's not that these cannot be solved with Euler-Lagrange. But, there are more ef
 
 **Po: This looks quite interesting. I want to learn more.**
 
-**Oogway**: Well, you can go in the past and in the present. I will give you one example of the history and one example of the present. Then, you can expand upon them. In the history, Micael I Jordan et al. [2] introduced these beautiful ways to convert a problem into variational problems by using Fenchel duality. You must read this paper. This is a beautiful paper. In the present, there is this interesting idea of parameterizing the conditional posterior based on neural networks. This is not exactly like other variaitonal methods because you are not optimizing over one function, but rather a conditional function. But, it is quite interesting idea. It is called Variational Autoencoder.
+**Oogway**: Well, you can go in the past and in the present. I will give you one example of the history and one example of the present. Then, you can expand upon them. In the history, Micael I Jordan et al. [2] introduced these beautiful ways to convert a problem into variational problems by using Fenchel duality. You must read this paper (section 4 for variational methods). This is a beautiful paper. In the present, there is this interesting idea of parameterizing the conditional posterior based on neural networks. This is not exactly like other variaitonal methods because you are not optimizing over one function, but rather a conditional function. But, it is quite interesting idea. It is called Variational Autoencoder.
 
 ## P.S.
 
 
-The cover picture is from Feynman's lecture on 'The Principle of Least Action'. Perhaps, it is the most interesting way to understand variational methods. If you would like to know more on the topic of variational methods, I recommend you check out the link in the picture credit!                      
+The cover picture is from Feynman's lecture on 'The Principle of Least Action'. Perhaps, it is the most interesting way to understand variational methods. If you would like to know more on the topic of variational methods, I recommend you check out the link in the picture credit!
+
+## References
+1. Bishop, C. M. (2007), Pattern Recognition and Machine Learning (Information Science and Statistics) , Springer 
+2. Jordan, M.I., Ghahramani, Z., Jaakkola, T.S. and Saul, L.K., 1999. An introduction to variational methods for graphical models. Machine learning, 37(2), pp.183-233.                      
