@@ -90,5 +90,7 @@ I completed my PhD in Computing and Information Sciences from Rochester Institut
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
 **Research**  
-I am generally interested in computational and algorithmic aspects of learning. I have worked on 1) probabilistic models and Bayesian inference, 2) generative modeling and semi/self/un-supervised learning, and 3) generalization and robust/reliable estimation.
-I have applied these ideas in the context of computer vision/ video analysis problems, medical imaging and biomedical signals. My current research projects include score based generative models, energy based models, representation learning in videos, kernel methods etc. In my PhD thesis, I focused on learning and generalization in the context of reconstructing cardiac electrophysiological signals. 
+I am generally interested in computational and algorithmic aspects of learning. I have worked on 1) Probabilistic models, Bayesian inference and Statistical computation, 2) Generative modeling and Semi/Self/Un-supervised learning, and 3) Generalization and Robust/Reliable estimation in Deep learning.
+I have worked on the above research problems in the context of computer vision/ video analysis, medical imaging and biomedical signal analysis. Major portion of my PhD thesis was focused on learning and generalization in the context of reconstructing cardiac electrophysiological signals, an interesting inverse problem where we want to computationally reconstruct cardiac electrical signals.
+
+I am currently excited to work on Score based generative models, Energy based models, Kernel methods, Interpretable methods and Representation learning in videos. 
