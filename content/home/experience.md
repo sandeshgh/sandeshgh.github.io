@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral Research Associate"
+  title = "Senior Engineer/Researcher"
+  company = "Qualcomm Inc"
+  company_url = "https://www.qualcomm.com/home"
+  location = "San Diego, CA"
+  date_start = "2023-02-06"
+  date_end = ""
+  description = """Developing camera algorithms applying computer vision and machine learning ideas.
+  """
+[[experience]]
+  title = "Postdoctoral Researcher"
   company = "Department of Computer and Electrical Engineering, Northeastern University"
   company_url = "https://ece.northeastern.edu/"
   location = "Boston, MA"
   date_start = "2020-09-02"
-  date_end = ""
+  date_end = "2023-02-03"
   description = """Working at the intersection of machine learning, computer vision and medical imaging
   """
 [[experience]]

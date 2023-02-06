@@ -17,11 +17,11 @@ btn:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Senior Engineer/Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Northeastern University
+- name: Qualcomm Inc
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,7 +34,7 @@ interests:
 - Machine Learning 
 - Probabilistic Methods 
 - Computer Vision
-- Statistical Inference
+- Statistical Computation
 - Medical Imaging
 
 education:
@@ -83,14 +83,13 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at Northeastern University working with [Prof. Jennifer Dy](https://scholar.google.com/citations?hl=en&user=6h7b0fAAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Octavia Camps](https://scholar.google.com/citations?user=htt9T1AAAAAJ&hl=en) and [Prof. Dana H Brooks](https://scholar.google.com/citations?user=MR6GYYsAAAAJ&hl=en).
+I am a Senior Engineer/Researcher at [Qualcomm](https://www.qualcomm.com/home) developing low-power and compute-efficient computer vision/machine learning algorithms. 
 
-I completed my PhD in Computing and Information Sciences from Rochester Institute of Technology under advisement of [Prof. Linwei Wang](https://pht180.rit.edu/cblwang/).
+Before joining Qualcomm, I was a postdoctoral researcher at Northeastern University working with [Prof. Jennifer Dy](https://scholar.google.com/citations?hl=en&user=6h7b0fAAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Octavia Camps](https://scholar.google.com/citations?user=htt9T1AAAAAJ&hl=en) and [Prof. Dana H Brooks](https://scholar.google.com/citations?user=MR6GYYsAAAAJ&hl=en). I completed my PhD in Computing and Information Sciences from Rochester Institute of Technology under advisement of [Prof. Linwei Wang](https://pht180.rit.edu/cblwang/).
 
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
 **Research**  
-I am generally interested in computational and algorithmic aspects of learning. I have worked on 1) Probabilistic models, Bayesian inference and Statistical computation, 2) Generative modeling and Semi/Self/Un-supervised learning, and 3) Generalization and Robust/Reliable estimation in Deep learning.
-I have worked on the above research problems in the context of computer vision/ video analysis, medical imaging and biomedical signal analysis. Major portion of my PhD thesis was focused on learning and generalization in the context of reconstructing cardiac electrophysiological signals, an interesting inverse problem where we want to computationally reconstruct cardiac electrical signals.
+I feel glad to have worked in diverse areas like signal processing, medical imaging, deep learning, learning theory, kernel methods, generative modeling, reliable estimation, and score-based generative models during my undergrad, PhD and Postdoc. The richness, diversity and cross-fertilization of ideas from different fields like Physics, economics, mathematics, computer science, statistics, electrical engineering, control and neural network architecture engineering is exciting and truly satisfying in modern AI and machine learning. Ideas have cross fields and found interesting adaptations and interpretations resulting into ingenious solutions of problems both in machine learning and outside. It is beautiful. I feel happy to have contributed in this process. During PhD, I applied VAE as inductive bias in solving inverse problems (see [here](https://arxiv.org/pdf/1905.04803.pdf)), and connected generalization with smoothness and invariance (see [here](https://arxiv.org/pdf/1903.02948.pdf)). Later, I applied idea from learning theory to KL divergence estimation (see [here](https://proceedings.neurips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf)), and introduced the geometric interpretation of score-based generative models.
 
-I am currently excited to work on Score based generative models, Energy based models, Kernel methods, Interpretable methods and Representation learning in videos. 
+At Qualcomm, I am excited to work on machine learning, computer vision and AI research works that will be realized as product, and will have real-world impact on everyday lives of numerous people. 
