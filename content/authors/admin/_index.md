@@ -54,7 +54,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sandesh@ece.neu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:drsandeshghimire@gmail.com'  # For a direct email link, use 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=5o_uurwAAAAJ&hl=en
