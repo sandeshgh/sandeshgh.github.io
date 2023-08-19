@@ -1,7 +1,7 @@
 ---
-title: Qualitative Research Summer Intensive
+title: Reliable Estimation of KL divergence
 event: academia Theme Conference
-event_url: https://example.org
+event_url: https://slideslive.com/38967059/reliable-estimation-of-kl-divergence-using-a-discriminator-in-reproducing-kernel-hilbert-space?ref=speaker-86988
 location: London, United Kingdom
 summary: An example talk using academia's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

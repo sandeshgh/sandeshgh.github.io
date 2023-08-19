@@ -17,11 +17,11 @@ btn:
 superuser: true
 
 # Role/position
-role: Senior Engineer/Researcher
+role: Senior Researcher and Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Qualcomm Inc
+- name: Qualcomm Tech
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -83,13 +83,15 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Engineer/Researcher at [Qualcomm](https://www.qualcomm.com/home) developing low-power and compute-efficient computer vision/machine learning algorithms. 
+I am a Senior Researcher and Engineer at [Qualcomm](https://www.qualcomm.com/home) developing efficient computer vision/machine learning algorithms. My current work is mainly in the area of image and video processing, understanding and generation.
 
 Before joining Qualcomm, I was a postdoctoral researcher at Northeastern University working with [Prof. Jennifer Dy](https://scholar.google.com/citations?hl=en&user=6h7b0fAAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Octavia Camps](https://scholar.google.com/citations?user=htt9T1AAAAAJ&hl=en) and [Prof. Dana H Brooks](https://scholar.google.com/citations?user=MR6GYYsAAAAJ&hl=en). I completed my PhD in Computing and Information Sciences from Rochester Institute of Technology under advisement of [Prof. Linwei Wang](https://pht180.rit.edu/cblwang/).
 
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
 **Research**  
-What I find exciting and truly satisfying working in modern AI and machine learning is the diversity of ideas from different fields like Physics, economics, mathematics, computer science, statistics, electrical engineering, control and neural network architecture engineering. Ideas have crossed fields and found interesting adaptations and interpretations resulting into ingenious solutions of problems both in machine learning and outside. It is beautiful and I feel happy to have contributed in this process. During PhD, I applied VAE as inductive bias in solving inverse problems (see [here](https://arxiv.org/pdf/1905.04803.pdf)), and connected generalization with smoothness and invariance (see [here](https://arxiv.org/pdf/1903.02948.pdf)). Later, I applied idea from learning theory to KL divergence estimation (see [here](https://proceedings.neurips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf)), and introduced the geometric interpretation of score-based generative models (see [here](https://arxiv.org/pdf/2302.04411.pdf)).
+What I find exciting and truly satisfying working in AI and machine learning is the richness and diversity of ideas - they never get boring. Ideas from different fields like mathematics, Physics, economics, computer science, statistics, electrical engineering, control and neural network architecture engineering have crossed fields and found interesting adaptations and interpretations resulting into ingenious solutions of problems both in machine learning and outside. It is beautiful and I feel happy to have enjoyed and contributed my share. My current favorite is how Diffusion model can be simultaneously interpreted in different ways from different perspectives like Bayesian inference, control system, Schrodinger Bridge problem, Stochastic differential equation, Maximum-likelihood generation, Neural-ODE, Optimal transport and Alpha-blending. To learn about yet another novel perspective, please take a look at my recent work where I introduce the geometric interpretation of these Diffusion generative models (see [here](https://arxiv.org/pdf/2302.04411.pdf)).
+<!-- 
+During PhD, I applied VAE as inductive bias in solving inverse problems (see [here](https://arxiv.org/pdf/1905.04803.pdf)), and connected generalization with smoothness and invariance (see [here](https://arxiv.org/pdf/1903.02948.pdf)). Later, I applied idea from learning theory to KL divergence estimation (see [here](https://proceedings.neurips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf)), and . -->
 
 At Qualcomm, I am excited to work on machine learning, computer vision and AI research works that will be realized as product, and will have real-world impact on everyday lives of numerous people. 

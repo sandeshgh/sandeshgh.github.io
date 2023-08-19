@@ -1,8 +1,8 @@
 ---
-title: Coding and Analyzing Qualitative Data
-event: academia Theme Conference
-event_url: https://example.org
-location: London, United Kingdom
+title: Reliable Estimation of KL Divergence
+event: Neural Information Processing Systems 2021	
+event_url: 
+location: Virtual Conference
 summary: An example talk using academia's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
