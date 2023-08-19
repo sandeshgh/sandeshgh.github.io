@@ -1,15 +1,15 @@
 ---
 title: Reliable Estimation of KL divergence
-event: academia Theme Conference
-event_url: https://slideslive.com/38967059/reliable-estimation-of-kl-divergence-using-a-discriminator-in-reproducing-kernel-hilbert-space?ref=speaker-86988
-location: London, United Kingdom
-summary: An example talk using academia's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+event: Neural Information Processing Systems (NeurIPS) 2021
+event_url: https://nips.cc/Conferences/2021
+location: Virtual Conference
+summary: NeurIPS 2021 Spotlight Talk.
+abstract: "In this paper presented in NeurIPS 2021, I talk about how to overcome the difficulties in estimating KL divergence from samples and present an algorithm for that."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-12-07T10:00:00Z"
+#date_end: "2021-12-10T10:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -22,18 +22,18 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
-#- icon: twitter
+#icon: 
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://slideslive.com/38967059/reliable-estimation-of-kl-divergence-using-a-discriminator-in-reproducing-kernel-hilbert-space?ref=speaker-86988"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -54,7 +54,7 @@ projects:
 math: true
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /alert %}}
 
@@ -64,4 +64,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. -->
