@@ -83,15 +83,15 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Researcher and Engineer at [Qualcomm](https://www.qualcomm.com/home) developing efficient computer vision/machine learning algorithms. My current work is mainly in the area of image and video processing/understanding and generative modeling.
+I am a Senior Researcher and Engineer at [Qualcomm](https://www.qualcomm.com/home) developing efficient computer vision/machine learning algorithms. My current work is mainly in the area of image and video processing/understanding and generative models (vision and language). 
 
 Before joining Qualcomm, I was a postdoctoral researcher at Northeastern University working with [Prof. Jennifer Dy](https://scholar.google.com/citations?hl=en&user=6h7b0fAAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Octavia Camps](https://scholar.google.com/citations?user=htt9T1AAAAAJ&hl=en) and [Prof. Dana H Brooks](https://scholar.google.com/citations?user=MR6GYYsAAAAJ&hl=en). I completed my PhD in Computing and Information Sciences from Rochester Institute of Technology under advisement of [Prof. Linwei Wang](https://pht180.rit.edu/cblwang/).
 
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
-**Research**  
-What I find exciting and truly satisfying working in AI and machine learning is the richness and diversity of ideas. Ideas from different fields like mathematics, Physics, economics, computer science, statistics, electrical engineering, control and neural network architecture engineering have crossed fields and found interesting adaptations in machine learning and vice versa. My current favorite is how Diffusion model can be simultaneously interpreted in different ways from different perspectives like Bayesian inference, control system, Schrodinger Bridge problem, Stochastic differential equation, Maximum-likelihood generation, Neural-ODE, Optimal transport and Alpha-blending. To learn about yet another novel perspective, please take a look at my recent work where I introduce the geometric interpretation of these Diffusion generative models (see [here](https://arxiv.org/pdf/2302.04411.pdf)).
+**Research and Engineering**  
+What I find exciting and truly satisfying working in AI and machine learning is the richness and diversity of ideas. Ideas from different fields like mathematics, Physics, economics, computer science, statistics, electrical engineering, control and neural network architecture engineering have crossed fields and found interesting adaptations in machine learning and vice versa. My current favorite is how Diffusion model can be simultaneously interpreted in different ways from different perspectives. 
 <!-- 
 During PhD, I applied VAE as inductive bias in solving inverse problems (see [here](https://arxiv.org/pdf/1905.04803.pdf)), and connected generalization with smoothness and invariance (see [here](https://arxiv.org/pdf/1903.02948.pdf)). Later, I applied idea from learning theory to KL divergence estimation (see [here](https://proceedings.neurips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf)), and . -->
 
-At Qualcomm, I am excited to work on machine learning, computer vision and AI research works that will be realized as product, and will have real-world impact. 
+At Qualcomm, I am excited to work on computer vision algorithms and Generative AI vision and language models, with special focus on how to optimize these models so that they can be implemented on-device with resource constraints.
