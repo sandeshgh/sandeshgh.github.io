@@ -1,5 +1,6 @@
 ---
 title: Variational Methods - From Physics to Machine Learning
+stylesheet: style.css  # Path to your CSS file
 subtitle: 
 summary: From Physics to ML
 authors:
@@ -9,6 +10,7 @@ categories: []
 date: "2019-02-05T00:00:00Z"
 featured: false
 draft: false
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -79,8 +81,17 @@ $$L=\int_0^1 \sqrt{1+f'(x)^2} dx$$
 The question now is which function $f$ would minimize the functional (length L). From the above argument, whatever the function is, say $f_0$, it must be such that if you perturb $f_0$ by small δf to obtain $f_0+δf$, then $f_0+δf$ doesn't change the length L too much. In fact, then it can be shown that the derivative defined in this way would be zero if the change is L can be made as small as we desire by choosing appropriate $δf$. From there, we can derive some conditions that must be satisified by an optimum function. These conditions are in the form of differential conditions and are called Euler-Lagrange equation. 
 
 <!-- ![](./f_x.png =100x20) -->
-<img src="/img/f_x.png" alt="function_image"
-  width="400" />
+<!-- <img src="f_x.png" alt="function_image"
+  width="400" /> -->
+<!-- <img src="f_x.png" alt="drawing" width="200"/> -->
+<!-- ![function_image](f_x.png) -->
+<!-- <img src="f_x.png" alt="function_image" width="100" /> -->
+
+
+
+![function_image](f_x_2.png)
+
+
 
 **Po: Euler-Lagrange? Sounds complicated!**
 
