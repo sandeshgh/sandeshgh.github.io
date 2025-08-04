@@ -92,8 +92,8 @@ Before joining Qualcomm, I was a postdoctoral researcher at Northeastern Univers
 
 <!-- ![reviews](../../img/certifacates.jpg) -->
 **Research and Engineering**  
-I love working in AI and machine learning. I love the richness and diversity of ideas in this field: ideas from mathematics, physics, economics, computer science, statistics, electrical engineering, control melt and become more interesting every day. 
+I love working in AI and machine learning. I love the richness and diversity of ideas in this field: ideas cross from everywhere like mathematics, physics, economics, computer science, statistics, electrical engineering, control and they melt in AI and ML. It feels amazing every time we realized how things are interconnected. And there is nothing I love more than connecting ideas that seem different but are actually the same or at least intricately related. Transitioning from academia to industry, I have started appreciating the importance of engineering more now. I feel humbled by this experience and thankful for the new perspective. 
 <!-- 
 During PhD, I applied VAE as inductive bias in solving inverse problems (see [here](https://arxiv.org/pdf/1905.04803.pdf)), and connected generalization with smoothness and invariance (see [here](https://arxiv.org/pdf/1903.02948.pdf)). Later, I applied idea from learning theory to KL divergence estimation (see [here](https://proceedings.neurips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf)), and . -->
 
-I transitioned from academia to industry and have started liking the practical aspects of deploying amazing ideas into amazing products. At Qualcomm, I am excited to work on computer vision and Generative AI algorithms with focus on overcoming resource constraint to develop smart models.
+<!-- I transitioned from academia to industry and have started liking the practical aspects of deploying amazing ideas into amazing products. At Qualcomm, I am excited to work on computer vision and Generative AI algorithms with focus on overcoming resource constraint to develop smart models. -->
