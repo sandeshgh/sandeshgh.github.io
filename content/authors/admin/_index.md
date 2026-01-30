@@ -85,7 +85,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Researcher and Engineer at [Qualcomm](https://www.qualcomm.com/home) developing efficient computer vision, machine learning algorithms. My current work is mainly in the area of image, language and video processing, understanding and developing generative models (vision and language). 
+I am a Staff Researcher and Engineer at [Qualcomm](https://www.qualcomm.com/home) developing efficient computer vision, machine learning algorithms. My current work is mainly in the area of image, language and video processing, understanding and developing generative models (vision and language). 
 
 Before joining Qualcomm, I was a postdoctoral researcher at Northeastern University working with [Prof. Jennifer Dy](https://scholar.google.com/citations?hl=en&user=6h7b0fAAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Octavia Camps](https://scholar.google.com/citations?user=htt9T1AAAAAJ&hl=en) and [Prof. Dana H Brooks](https://scholar.google.com/citations?user=MR6GYYsAAAAJ&hl=en). I completed my PhD in Computing and Information Sciences from Rochester Institute of Technology under advisement of [Prof. Linwei Wang](https://pht180.rit.edu/cblwang/).
 
