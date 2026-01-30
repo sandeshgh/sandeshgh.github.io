@@ -19,7 +19,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Senior Researcher and Engineer
+role: Staff Researcher and Engineer
 
 # Organizations/Affiliations
 organizations:
