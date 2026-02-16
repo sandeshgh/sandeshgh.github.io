@@ -16,12 +16,12 @@
 [[main]]
   name = "Blog"
   url = "#posts"
-  weight = 70
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
   weight = 30
+
+# [[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
 
 [[main]]
   name = "Publications"
