@@ -55,7 +55,7 @@ gallery_item:
   image: theme-strawberry.png
 ---
 ## Summary
-The generative modeling landspace has evolved from time-discretized diffusion (DDPM) to the continuous score based models, and recently to Flow Matching and Stochastic Interpolants. They are all connected and they all try to estimate the same instantaneous velocity field to the probability distribution. Once we have clarified the connection, we can use the unifying stochastic interpolant framework to understand and interpret transformations like $x$-space, $v$-space and $\epsilon$-space transformations, and denounce the myths like we estimte noise in diffusion models. 
+The generative modeling landspace has evolved from time-discretized diffusion (DDPM) to the continuous score based models, and recently to Flow Matching and Stochastic Interpolants. They are all connected and they all try to estimate the same instantaneous velocity field to the probability distribution. Once we have clarified the connection, we can use the unifying stochastic interpolant framework to understand and interpret transformations like $x$-space, $v$-space and $\epsilon$-space transformations, and denounce the myths like we estimate noise in diffusion models. 
  
 
 ## Diffusion Model
@@ -110,7 +110,7 @@ $$
 v(x,t) = E[u_t(x|x_0)] = E[\frac{\dot{b}(t)}{b(t)} \big ( x - a_t x_0\big) + \dot{a_t}x_0] = \frac{\dot{b}(t)}{b(t)} \big ( x - a_t E[x_0|x_t=x]\big) + \dot{a_t}E[x_0|x_t=x] \tag{5}
 $$
 ## Stochastic Interpolants
-Another seminal idea is that of stochastic interpolants due to Albergo et al. which establishes a unified analysis method generalizing Diffusion and Flow methods. 
+Another seminal idea is that of stochastic interpolants due to Albergo et al.[7] which establishes a unified analysis method generalizing Diffusion and Flow methods. 
 
 The Stochastic interpolant recipe is as follows:
 
@@ -313,3 +313,5 @@ That unifies all the v-space, x-space, $\epsilon$- space modeling from DDIM till
 5. Li, T. and He, K., 2025. Back to basics: Let denoising generative models denoise. arXiv preprint arXiv:2511.13720.
 
 6. Särkkä, S. and Solin, A. (2019) Applied Stochastic Differential Equations. Cambridge: Cambridge University Press.
+
+7. Albergo, M., Boffi, N.M. and Vanden-Eijnden, E., 2025. Stochastic interpolants: A unifying framework for flows and diffusions. Journal of Machine Learning Research, 26(209), pp.1-80.
