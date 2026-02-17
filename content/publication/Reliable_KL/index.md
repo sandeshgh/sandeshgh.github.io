@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: In *Neural Information Processing System (NeurIPS) 2021*
 publication_short: "Neurips 2021"
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Estimating Kullback–Leibler (KL) divergence from samples of two distributions is essential in many machine learning problems. Variational methods using neural network discriminator have been proposed to achieve this task in a scalable manner. However, we noted that most of these methods using neural network discriminators suffer from high fluctuations (variance) in estimates and instability in training. In this paper, we look at this issue from statistical learning theory and function space complexity perspective to understand why this happens and how to solve it. We argue that the cause of these pathologies is lack of control over the complexity of the neural network discriminator function space and could be mitigated by controlling  it. To achieve this objective, we 1) present a novel construction of the discriminator in the Reproducing Kernel Hilbert Space (RKHS), 2) theoretically relate the error probability bound of the KL estimates to the complexity of the discriminator in the RKHS space, 3) present a scalable way to control the complexity (RKHS norm) of the discriminator for a reliable estimation of KL divergence, and 4) prove the consistency of the proposed estimator. In three different applications of KL divergence – estimation of KL, estimation of mutual information and Variational Bayes – we show that by controlling the complexity as developed in the theory, we are able to reduce the variance of KL estimates and stabilize the training.
 
 # Summary. An optional shortened abstract.
 summary: In *Neural Information Processing System (NeurIPS) 2021*, <p style="color:red">*Spotlight Paper* </p> 
@@ -31,8 +31,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: ''
+url_pdf: https://papers.nips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf
+url_code: 'https://github.com/sandeshgh/Reliable-KL-estimation'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -60,6 +60,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-## Summary
-This paper answers the fundamental question about estimating KL divergence from samples. We argues that the estimation is unreliable if the complexity of discriminator is not controlled during training. We show how to do that in an RKHS space with theoretical analysis.
 

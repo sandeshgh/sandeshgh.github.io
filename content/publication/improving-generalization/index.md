@@ -12,13 +12,14 @@ publishDate: "2019-06-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Information Processing in Medical Imaging (IPMI), 2019*
 publication_short: "IPMI 2019"
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: While many deep learning based approaches have been proposed for medical image analysis tasks like image reconstruction and classification, the question of generalization of these deep networks remains elusive and little explored in the medical imaging community. In this paper, we propose two ways to improve generalization of an encoder-decoder reconstruction network. First, drawing from analytical learning theory, we theoretically show that a stochastic latent space will improve the ability of a network to generalize to test data outside the training distribution. Second, based on information bottleneck principle, we show that decreasing the mutual information between the latent space and the input data will help a network generalize to unseen input variations. Subsequently, we present a sequence image reconstruction network optimized by a variational approximation of the information bottleneck principle with stochastic latent space. In the application setting of reconstructing the sequence of cardiac transmembrane potential from body-surface potential, we assess the two types of generalization abilities of the presented network against its deterministic counterpart and demonstrate their efficacy. 
+
 
 # Summary. An optional shortened abstract.
 summary: In *International Conference on Information Processing in Medical Imaging (IPMI), 2019*
@@ -29,8 +30,8 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: '#'
+url_pdf: https://arxiv.org/pdf/1903.02948
+url_code: 'https://github.com/sandeshgh/Improving-Generalization'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
@@ -57,5 +58,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-## Summary
-While many deep learning based approaches have been proposed for medical image analysis tasks like image reconstruction and classification, the question of generalization of these deep networks remains elusive and little explored in the medical imaging community. In this paper, we propose two ways to improve generalization of an encoder-decoder reconstruction network. First, drawing from analytical learning theory, we theoretically show that a stochastic latent space will improve the ability of a network to generalize to test data outside the training distribution. Second, based on information bottleneck principle, we show that decreasing the mutual information between the latent space and the input data will help a network generalize to unseen input variations. Subsequently, we present a sequence image reconstruction network optimized by a variational approximation of the information bottleneck principle with stochastic latent space. In the application setting of reconstructing the sequence of cardiac transmembrane potential from body-surface potential, we assess the two types of generalization abilities of the presented network against its deterministic counterpart and demonstrate their efficacy. 
+

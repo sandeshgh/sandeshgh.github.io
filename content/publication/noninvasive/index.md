@@ -13,13 +13,13 @@ publishDate: "2019-03-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Transactions in Medical Imaging, 2019*
 publication_short: "TMI"
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper looks at the generation of electrocardiogram (ECG) as a generative process and represents it with a hierarchical graphical model. This allows incorporation of several prior information like knowledge of dynamics of transmembrane potential, possibe error in the dynamic representation, sparsity of the errors, etc. in a common framework of probabilistic graphical model. Then, combining ideas like variational inference and expectation maximization, we propose algorithm to estimate transmembrane potential (TMP) together with possible error. We then go on to analyze the performance of the algorithm by connecting it with machine learning algorithms like relevance vector machine. In addition to principled formulation and rigorous mathematical analysis, this paper has several interesting ideas like using Fenchel duality to obtain lower bound variational approximation of generalized Gaussian distribution, using matrix identities and algebra to obtain time-optimized update equations and analysis of performance in terms of singular values of forward matrix. 
 
 # Summary. An optional shortened abstract.
 summary: In *Transactions in Medical Imaging, 2019*
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8672215
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -59,6 +59,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-## Summary
-This paper looks at the generation of electrocardiogram (ECG) as a generative process and represents it with a hierarchical graphical model. This allows incorporation of several prior information like knowledge of dynamics of transmembrane potential, possibe error in the dynamic representation, sparsity of the errors, etc. in a common framework of probabilistic graphical model. Then, combining ideas like variational inference and expectation maximization, we propose algorithm to estimate transmembrane potential (TMP) together with possible error. We then go on to analyze the performance of the algorithm by connecting it with machine learning algorithms like relevance vector machine. In addition to principled formulation and rigorous mathematical analysis, this paper has several interesting ideas like using Fenchel duality to obtain lower bound variational approximation of generalized Gaussian distribution, using matrix identities and algebra to obtain time-optimized update equations and analysis of performance in terms of singular values of forward matrix. 
+
 
